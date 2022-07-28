@@ -4,6 +4,7 @@ IGS.cl("cl_init.lua")
 function ENT:Initialize()
 	-- sex
 	--test
+	--abc
 	-- self:SetModel("models/props_junk/Shoe001a.mdl") -- ботинок
 	-- self:SetModel("models/christmas_gift2/christmas_gift2.mdl") -- подарок
 
